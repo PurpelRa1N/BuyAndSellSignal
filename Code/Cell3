@@ -1,0 +1,2 @@
+RIL = pd.read_csv("Reliance.csv")
+RIL
